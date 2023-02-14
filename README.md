@@ -6,13 +6,12 @@ Hello everyone 👋 !! I'm from Rio de Janeiro, Brazil. I'm currently studying a
 - 👩🏽‍🎓 Studying degree in **Information Systems**.
 - 💬 Collaboration is the secret!;
 - 💬 Practitioner and Student of the best Softskills for life and performance;
-- 📄 Take a look at my [Resume](https://curriculo-john.web.app/);
 
 <div align="center">
  
 <img src=".https://i.postimg.cc/nLGpn3Ht/download20210902183145.png" width="100px">
 
-Actually learning **Ionic**, **TypeScript** and **AWS**
+Actually learning AWS, AZ-900, Kurbenetes, DevOps and Docker
 <br>
 </div>
 
